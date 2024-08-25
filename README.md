@@ -12,7 +12,7 @@ Check out the live version of the website: [Image Generator Website](https://ima
 
 ## API Details
 The image generation is powered by a my API:
-# Endpoint: `https://death-image.ashlynn.workers.dev/`
+# Endpoint: https://death-image.ashlynn.workers.dev/
 # Parameters:
   prompt: The text input that describes the image you want to generate.
   image: Number of images to generate (e.g., 3).
@@ -22,5 +22,5 @@ The image generation is powered by a my API:
 ## Example API Call 
 
 ```json
-{https://death-image.ashlynn.workers.dev/?prompt=Your+Text+Here&image=3&dimensions=square&tall&wide&safety=true
-}
+{https://death-image.ashlynn.workers.dev/?prompt=Your+Text+Here&image=3&dimensions=square&tall&wide&safety=true}
+```
